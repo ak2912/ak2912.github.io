@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My first blog post
+date: 2016-04-13
 ---
 
 Hello, welcome to my blog.
