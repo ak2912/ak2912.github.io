@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first blog post
+title: Using Wiki Data to Predict Box Office Revenue
 date: 2016-05-01
 ---
 
@@ -14,3 +14,14 @@ As seen in figure 1, there seems to be a loose relationship at best between wiki
 Compare this to figure 2, where the relationship between between a movie's production budget and it's future box office revenue is much clearer.
 
 ![Figure 2 - Scatter Plot of Production Budget vs. Box Office Revenue](Screen Shot 2016-04-29 at 10.34.17 AM.png)
+
+Table 1 has a sparse model with wiki views as the only predictor and future box office revenue as the outcome.  
+
+![Table 1 - Sparse model with wiki views only](Screen Shot 2016-05-02 at 9.14.29 AM.png)
+
+
+Table 2 includes production budget and genre - specifically, note how adding these additional predictors causes wiki views to completely lose what little predictive power it had.
+
+![Table 2 - Complete model with wiki views, production budget, and genre](Screen Shot 2016-05-02 at 9.14.39 AM.png)
+
+
