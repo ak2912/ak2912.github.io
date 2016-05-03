@@ -4,6 +4,7 @@ title: Using Wiki Data to Predict Box Office Revenue
 date: 2016-05-01
 ---
 
+![cat_pic](https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg)
 
 Wiki traffic data seems to be a good proxy for audience interest in a movie relatively close to a movie's release.  But does this trend hold as we increase the timespan?
 
