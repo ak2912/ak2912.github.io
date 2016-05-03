@@ -9,7 +9,7 @@ Wiki traffic data seems to be a good proxy for audience interest in a movie rela
 
 As seen in figure 1, there seems to be a loose relationship at best between wiki views and future box office revenue, when looking at wiki page views at least one year in advance of the release date.
 
-![Figure 1 - Scatter Plot of Wiki Views vs. Box Office Revenue](Screen Shot 2016-04-29 at 10.33.19 AM.png)
+![Figure 1 - Scatter Plot of Wiki Views vs. Box Office Revenue](Image1.png)
 
 Compare this to figure 2, where the relationship between between a movie's production budget and it's future box office revenue is much clearer.
 
