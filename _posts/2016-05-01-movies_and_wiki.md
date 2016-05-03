@@ -12,7 +12,7 @@ As seen in figure 1, there seems to be a loose relationship at best between wiki
 
 Compare this to figure 2, where the relationship between between a movie's production budget and it's future box office revenue is much clearer.
 
-![Figure 2 - Scatter Plot of Production Budget vs. Box Office Revenue](/images/Screen Shot 2016-04-29 at 10.34.17 AM.png)
+![Figure 2 - Scatter Plot of Production Budget vs. Box Office Revenue](/images/Screen Shot 2016-04-29 at 10.34.17 AM.png =250x100)
 
 Table 1 has a sparse model with wiki views as the only predictor and future box office revenue as the outcome.  
 
